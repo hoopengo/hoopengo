@@ -35,8 +35,6 @@
 - https://github.com/hoopengo/wav-Parser-Donation-Alerts
 <!-- BLOG-POST-LIST:END -->
 
----
-
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
