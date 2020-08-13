@@ -1,5 +1,7 @@
 ### Hi there, I'm AlexS - aka Hoopengo 👋
 
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hoopengo&show_icons=true&hide_border=true" />
+
 ## I'm JS Developer!
 - 🔭 I’m currently working on a [Holday](https://vk.com/holdaybich)!
 - 🌱 I’m currently learning everything 🤣
@@ -29,18 +31,16 @@
 
 ### 📕 Latest GitHub Projects
 <!-- BLOG-POST-LIST:START -->
-- None
+- https://github.com/hoopengo/RYNO-DENONPM
+- https://github.com/hoopengo/wav-Parser-Donation-Alerts
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hoopengo&show_icons=true&hide_border=true" />
-
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/
+[youtube]: https://youtube.com/
+[instagram]: https://instagram.com/
+[linkedin]: https://linkedin.com/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
