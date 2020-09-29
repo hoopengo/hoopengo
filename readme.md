@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learn more JS, DENO and open my [TEAM](https://vk.com/holdaydev)
-- ⚡ Fun fact: I love montage and money XD
 
 ### Languages and Tools:
 
