@@ -1,6 +1,6 @@
 ### Hi there, I'm AlexS - aka Hoopengo 👋
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hoopengo&show_icons=true&hide_border=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoopengo&show_icons=true&theme=radical)
 
 ## I'm JS Developer!
 - 🔭 I’m currently working on a [Holday](https://vk.com/holdaybich)!
