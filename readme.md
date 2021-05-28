@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoopengo&show_icons=true&theme=radical)
 
 ## I'm JS Developer!
-- 🔭 I’m currently working on a [Holday](https://vk.com/holdaybich)!
+- 🔭 I’m currently working on a [Holday](https://vk.com/aholday)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learn more JS, DENO and open my [TEAM](https://vk.com/holdaydev)
