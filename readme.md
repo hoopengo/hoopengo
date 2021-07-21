@@ -1,1 +1,1 @@
-[![Banner](hi, im hoopengo.gif)]
+<img src="/hi, im hoopengo.gif" />
