@@ -30,7 +30,7 @@
 ## 📈 GitHub
 <!-- GitHub Stats -->
 <a href="https://github.com/hoopengo">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoopengo&hide=html,css&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1F1F1F" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoopengo&hide=html,css,batchfile,shell,dockerfile&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1F1F1F" />
 </a>
 <a href="https://github.com/hoopengo">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=hoopengo&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1F1F1F" alt="@hoopengo" />
