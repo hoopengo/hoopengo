@@ -8,15 +8,6 @@
 
 **Я использую - Vue.js + Flask + Mongo 💫**
 
-## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list**
-<details>
-<!-- anilist_start-->
- • <a href="https://anilist.co/anime/105333">Dr. STONE<a><br>
- • <a href="https://anilist.co/anime/21087">One Punch Man<a><br>
- • <a href="https://anilist.co/anime/97668">One Punch Man 2<a><br>
-<!-- anilist_end-->
-</details>
-
 ## 📌 Хакатон проекты
 <!-- Pinned Repositories -->
 <a href="https://github.com/lytk4dev/eldorado-monitoring">
@@ -38,14 +29,21 @@
 
 ## Language and tools >~<
 
-### Tools
-
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com)
 [![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![Vim](https://img.shields.io/badge/-Vim-darkgreen?style=flat-square&logo=vim)](https://vim.org)
 
 <img src="https://minecraft-inside.ru/uploads/ac/dc/16/136924.png">
 
+## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list**
+<details>
+<!-- anilist_start-->
+ • <a href="https://anilist.co/anime/105333">Dr. STONE<a><br>
+ • <a href="https://anilist.co/anime/21087">One Punch Man<a><br>
+ • <a href="https://anilist.co/anime/97668">One Punch Man 2<a><br>
+<!-- anilist_end-->
+</details>
+ 
 <a href="git-scm.com"><img src="https://img.shields.io/badge/code-git-informational?style=flat&logo=git&logoColor=white&color=0088cc" /></a>
 <a href="python.org"><img src="https://img.shields.io/badge/code-python-informational?style=flat&logo=python&logoColor=white&color=0088cc" /></a>
 <a href="flask.palletsprojects.com"><img src="https://img.shields.io/badge/code-flask-informational?style=flat&logo=flask&logoColor=white&color=0088cc" /></a>
