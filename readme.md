@@ -8,8 +8,6 @@
 
 **Я использую - Vue.js + Flask + Mongo 💫**
 
-<br>
-
 ## 📈 GitHub
 <!-- GitHub Stats -->
 <a href="https://github.com/hoopengo">
