@@ -8,14 +8,6 @@
 
 **Я использую - Vue.js + Flask + Mongo 💫**
 
-## 📌 Хакатон проекты
-<!-- Pinned Repositories -->
-<a href="https://github.com/lytk4dev/eldorado-monitoring">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=lytk4dev&repo=eldorado-monitoring&hide_border=true&title_color=fffffd&text_color=ffffff&icon_color=ffffff&bg_color=1F1F1F" />
-</a>
-<a href="https://github.com/lytk4dev/vkusvill-hackaton">
-  <img align="center" style="margin:1rem 1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=lytk4dev&repo=vkusvill-hackaton&hide_border=true&title_color=fffffd&text_color=ffffff&icon_color=ffffff&bg_color=1F1F1F" />
-</a>
 <br>
 
 ## 📈 GitHub
