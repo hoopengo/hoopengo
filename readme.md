@@ -31,7 +31,7 @@
 ## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list**
 <details>
 
-![:hoopengo](https://count.getloli.com/get/@:hoopengo?theme=gelbooru-h)
+<!-- ![:hoopengo](https://count.getloli.com/get/@:hoopengo?theme=gelbooru-h) -->
 
 <!-- anilist_start-->
  • <a href="https://anilist.co/anime/101922">Kimetsu-no-Yaiba<a><br>
