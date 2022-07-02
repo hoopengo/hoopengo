@@ -28,6 +28,9 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoopengo&hide=html,css,batchfile,shell,dockerfile&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1F1F1F" />
 </a>
 
+##  🎶 **Currently Playing**
+[![Spotify](http://195.133.52.237/api/spotify/model)](https://open.spotify.com/user/3147wdktvd6usacgzwkklr67fu6e)
+
 ## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list**
 <details>
 
