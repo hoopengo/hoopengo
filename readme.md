@@ -29,7 +29,7 @@
 </a>
 
 ##  🎶 **Currently Playing**
-[![Spotify](http://195.133.52.237/api/spotify/model)](https://open.spotify.com/user/3147wdktvd6usacgzwkklr67fu6e)
+[![Spotify](http://195.133.52.237/api/spotify)](https://open.spotify.com/user/3147wdktvd6usacgzwkklr67fu6e)
 
 ## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list**
 <details>
