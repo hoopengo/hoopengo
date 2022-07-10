@@ -2,16 +2,15 @@
 <a href="https://t.me/hoopengo"><img src="https://img.shields.io/badge/%20-tg-0088cc?logo=telegram" /></a>
 <a href="https://vk.com/alexeyhoney"><img src="https://img.shields.io/badge/%20-vk-ffffff?logo=vk&logoColor=0088cc" /></a>
 
-### Привет <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+**Меня зовут Алексей. В основном веду разработкуу на Python.**
 
-**Меня зовут Алексей. \*3 года разработки на Python.**
-
- - [x] Fedora user (01.04.2022)
+ - [x] Use Arch btw (10.07.2022) 
+ - [x] Fedora user (100 days) 💖
  - [x] Manjaro user (1 year) ❤️
  - [x] Ubuntu user (6 months)
  - [x] Windows10 user (5 years) 🆙
  - [ ] Windows11 user?
- - [ ] FreeBSD user (kde)
+ - [ ] FreeBSD kde user
 
 ## 📈 GitHub
 <!-- GitHub Stats -->
