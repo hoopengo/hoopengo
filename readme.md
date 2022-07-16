@@ -2,7 +2,7 @@
 <a href="https://t.me/hoopengo"><img src="https://img.shields.io/badge/%20-tg-0088cc?logo=telegram" /></a>
 <a href="https://vk.com/alexeyhoney"><img src="https://img.shields.io/badge/%20-vk-ffffff?logo=vk&logoColor=0088cc" /></a>
 
-**Меня зовут Алексей. В основном веду разработкуу на Python.**
+**Меня зовут Алексей. В основном веду разработку на Python.**
 
  - [x] Use Arch btw (10.07.2022) 
  - [x] Fedora user (100 days) 💖
