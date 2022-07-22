@@ -11,6 +11,7 @@
  - [x] Windows10 user (5 years) 🆙
  - [ ] Windows11 user?
  - [ ] FreeBSD kde user
+ - [ ] Debian?
 
 ## 📈 GitHub
 <!-- GitHub Stats -->
