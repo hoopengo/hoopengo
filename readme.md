@@ -3,14 +3,18 @@
 
 **Меня зовут Алексей. В основном веду разработку на Python.**
 
- - [x] Use Arch btw (10.07.2022) 
- - [x] Fedora user (100 days) 💖
- - [x] Manjaro user (1 year) ❤️
- - [x] Ubuntu user (6 months)
- - [x] Windows10 user (5 years) 🆙
- - [ ] Windows11 user?
- - [ ] FreeBSD kde user
+## **OS usage history**
+
+<details>
+
+ - [x] Use Arch btw (50 days) 🤔 
+ - [x] Fedora (100 days) 💖
+ - [x] Manjaro (1 year) ❤️
+ - [x] Ubuntu (6 months)
+ - [x] Windows10 (5 years) 🆙
+ - [ ] Windows11?
  - [ ] Debian?
+</details>
 
 ## 📈 GitHub
 <!-- GitHub Stats -->
