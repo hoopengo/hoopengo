@@ -7,8 +7,8 @@
 
 <details>
 
- - [x] Use Arch btw (50 days) 🤔 
- - [x] Fedora (100 days) 💖
+ - [x] Use Arch btw (100 days) 🤔 
+ - [x] Fedora (now, >200 days) 💖
  - [x] Manjaro (1 year) ❤️
  - [x] Ubuntu (6 months)
  - [x] Windows10 (5 years) 🆙
@@ -32,20 +32,11 @@
 </a>
 
 <!-- ##  🎶 **Currently Playing** -->
-<!-- [![Spotify](http://195.133.52.237/api/spotify/black)](https://open.spotify.com/user/3147wdktvd6usacgzwkklr67fu6e) -->
+<!-- [![Spotify](hoopengo.pw/api/spotify/black)](https://open.spotify.com/user/3147wdktvd6usacgzwkklr67fu6e) -->
 
-## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list**
-<details>
+<br>
 
-<!-- ![:hoopengo](https://count.getloli.com/get/@:hoopengo?theme=gelbooru-h) -->
-
-<!-- anilist_start-->
- • <a href="https://anilist.co/anime/101922">Kimetsu-no-Yaiba<a><br>
- • <a href="https://anilist.co/anime/105333">Dr. STONE<a><br>
- • <a href="https://anilist.co/anime/21087">One Punch Man<a><br>
- • <a href="https://anilist.co/anime/97668">One Punch Man 2<a>
-<!-- anilist_end-->
-</details>
+![:hoopengo](https://count.getloli.com/get/@:hoopengo?theme=moebooru)
  
 [![Profile views](https://gpvc.arturio.dev/hoopengo)](https://github.com/hoopengo)
 <a href="www.mongodb.com"><img src="https://img.shields.io/badge/db-mongo-informational?style=flat&logo=mongodb&logoColor=white&color=00000" /></a>
