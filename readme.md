@@ -7,7 +7,8 @@
 
 <details>
 
- - [x] Use Arch btw (__now__, 300 days) 🤔 
+ - [x] MacOS (__now__)
+ - [x] Use Arch btw (1,5 years) 🤔 
  - [x] Fedora (200 days) 💖
  - [x] Manjaro (1 year) ❤️
  - [x] Ubuntu (6 months)
